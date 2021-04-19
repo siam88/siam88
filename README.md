@@ -9,7 +9,7 @@ Full Stack Software Engineer.
 #### 💼  Currently working at ***eCarnivalBD Limited***.
 
 #### 🛌  Live with:
-* __Language__: JavaScript, TypeScript, Php
+* __Language__: JavaScript, TypeScript, Php.
 * __Framework/Library/DB__: React, React Native, Node, Electron, Php, Laravel, WebRTC.
 
 #### 🏹  Working on:
@@ -19,10 +19,11 @@ Full Stack Software Engineer.
 * Ride, Solve Problems, Travel.
 
 #### 📚 interested in:
-* Functional & Modular Programming, Software Engineering philosopies
+* Functional & Modular Programming, Software Engineering philosopies.
+<br />
+<br />
 
-
-#### 🎯  Aiming Above The Mark To Hit The Mark .
+#### 🎯  Aiming Above The Mark To Hit The Mark.
 <br />
 <br />
 
