@@ -45,7 +45,7 @@ Full Stack Software Engineer.
 
 
 
-<img align="right"width="450" src="https://activity-graph.herokuapp.com/graph?username=siam88&bg_color=151515"/>
+
 
 
 #### 📫  Find me on:
