@@ -15,11 +15,19 @@ Full Stack Software Engineer.
 * __Language__: JavaScript, TypeScript, Php.
 * __Framework/Library/DB__: React, React Native, Node, Electron, Php, Laravel, WebRTC.
 
+
+<img align="right" width="620" height="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam88"/>
+
+
 #### 🏹  Working on:
 * __Language__: JavaScript
 
+
+
+
 #### ❤️  Love to:
 * Ride, Solve Problems, Travel.
+
 
 #### 📚 interested in:
 * Functional & Modular Programming, Software Engineering philosopies.
@@ -29,7 +37,7 @@ Full Stack Software Engineer.
 #### 🎯  Aiming Above The Mark To Hit The Mark.
 
 
-<img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=siam88"/>
+
 
 
 <br />
@@ -38,7 +46,7 @@ Full Stack Software Engineer.
 
 
 
-<img align="right" width="450" src="https://activity-graph.herokuapp.com/graph?username=siam88"/>
+<img align="right" width="620" height="150" src="https://activity-graph.herokuapp.com/graph?username=siam88"/>
 
 
 #### 📫  Find me on:
