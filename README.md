@@ -26,12 +26,14 @@ Full Stack Software Engineer.
 <br />
 <br />
 
+#### 🎯  Aiming Above The Mark To Hit The Mark.
+
 
 <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=siam88"/>
 <br />
 <br />
 <br />
-#### 🎯  Aiming Above The Mark To Hit The Mark.
+
 
 
 <img align="right" width="450" src="https://activity-graph.herokuapp.com/graph?username=siam88"/>
