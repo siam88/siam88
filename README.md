@@ -16,7 +16,7 @@ Full Stack Software Engineer.
 * __Framework/Library/DB__: React, React Native, Node, Electron, Php, Laravel, WebRTC.
 
 
-<img align="right" width="620" height="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam88"/>
+<img align="right" width="620" height="250"  src="https://activity-graph.herokuapp.com/graph?username=siam88"/>
 
 
 #### 🏹  Working on:
