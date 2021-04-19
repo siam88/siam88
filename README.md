@@ -18,7 +18,8 @@ Full Stack Software Engineer.
 #### ❤️  Love to:
 * Ride, Solve Problems, Travel.
 
-
+#### 📚 interested in:
+* Functional & Modular Programming, Software Engineering philosopies
 
 
 
