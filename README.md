@@ -31,7 +31,7 @@ Full Stack Software Engineer.
 
 <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=siam88"/>
 
-[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam88"/>](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 <br />
