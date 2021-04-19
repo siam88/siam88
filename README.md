@@ -4,7 +4,7 @@
 ### 👋  Hi there, I'm Md Rafshanul Hoque Siam
 Full Stack Software Engineer.
 
-#### 🎯  Aiming Above The Mark To Hit The Mark .
+
 
 #### 💼  Currently working at ***eCarnivalBD Limited***.
 
@@ -22,7 +22,7 @@ Full Stack Software Engineer.
 * Functional & Modular Programming, Software Engineering philosopies
 
 
-
+#### 🎯  Aiming Above The Mark To Hit The Mark .
 <br />
 <br />
 
