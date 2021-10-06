@@ -54,8 +54,7 @@ Full Stack Software Engineer.
   [<img alt="Messenger" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/messanger.png" height="32" width="32" />][facebook]
   [<img alt="Twitter" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/twitter.png" height="32" width="32" />][twitter]
   
-####  ![Profile views](https://gpvc.arturio.dev/siam88)  
-
+####  ![Profile views](https://gpvc.arturio.dev/siam88)  [![wakatime](https://wakatime.com/badge/user/72457dcd-bd63-4650-9ac6-108471ddbe41.svg)](https://wakatime.com/@72457dcd-bd63-4650-9ac6-108471ddbe41)
 <br />
 
 
