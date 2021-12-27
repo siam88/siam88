@@ -35,47 +35,58 @@
 #### 📚 interested in:
 * Functional & Modular Programming, Software Engineering philosopies.
 
+<img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam88&layout=compact&langs_count=16&theme=dark"/>
 
 #### 🎯  Aiming Above The Mark To Hit The Mark.
-
-
-
-
-
-<br />
-<br />
 <br />
 
+
+####  ![Profile views](https://gpvc.arturio.dev/siam88)  [![wakatime](https://wakatime.com/badge/user/72457dcd-bd63-4650-9ac6-108471ddbe41.svg)](https://wakatime.com/@72457dcd-bd63-4650-9ac6-108471ddbe41)
+
+### Languages and Tools:
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align="center" alt="PH-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PH-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="PH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PH-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<span color="red"><img  align="center" alt="GitHub" height="30" width="40"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></span>
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</div>
 
 
 
 
 
 #### 📫  Find me on:
+  <a href = "mailto: rafshanulsiam811@gmail.com">
+   <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+  <a href="https://www.linkedin.com/in/rafshanul-hoque-siam-22615b14b/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
  
-  [<img alt="LinkedIn" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/linkidin.png" height="32" width="32" />][linkedin]
-  [<img alt="Messenger" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/messanger.png" height="32" width="32" />][facebook]
-  [<img alt="Twitter" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/twitter.png" height="32" width="32" />][twitter]
   
-####  ![Profile views](https://gpvc.arturio.dev/siam88)  [![wakatime](https://wakatime.com/badge/user/72457dcd-bd63-4650-9ac6-108471ddbe41.svg)](https://wakatime.com/@72457dcd-bd63-4650-9ac6-108471ddbe41)
-<br />
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=siam88" />
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam88&text_color=daf7dc&bg_color=151515"/>
+
+
+<!-- <img align="left" width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=siam88" /> -->
+<div> 
+  <!-- 
+-->
+  
+ 
+ ![Snake animation](https://github.com/pedrohti/pedrohti/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
 
 
 
