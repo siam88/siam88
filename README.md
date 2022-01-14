@@ -68,9 +68,10 @@
   <a href = "mailto: rafshanulsiam811@gmail.com">
    <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
-  <a href="https://www.linkedin.com/in/rafshanul-hoque-siam-22615b14b/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://linktr.ee/RafshanulHqSiam" target="_blank">
+   <img src="https://img.shields.io/badge/-Available on-%230077B5?style=for-the-badge&logo=Available&logoColor=white" target="_blank">
  </a>
+ 
  
   
 
