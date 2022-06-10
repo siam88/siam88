@@ -1,6 +1,11 @@
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=siam88&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Siam....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=siam88&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
 
