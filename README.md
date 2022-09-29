@@ -17,7 +17,7 @@
 
 
 
-#### 💼  Currently working at ***eCarnivalBD Limited***.
+#### 💼  Currently working at ***SoftwindTech Limited***.
 
 #### 🛌  Live with:
 * __Language__: JavaScript, TypeScript, Php.
