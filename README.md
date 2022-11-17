@@ -20,7 +20,7 @@
 #### 💼  Currently working at ***SoftwindTech Limited***.
 
 #### 🛌  Live with:
-* __Language__: JavaScript, TypeScript, Php.
+* __Language__: JavaScript, TypeScript.
 * __Framework/Library/DB__: React, React Native, Node, Electron, Php, Laravel, WebRTC.
 
 
